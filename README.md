@@ -1,5 +1,6 @@
 # Data_Collection_with_API
-Using an API for data collection is a powerful way to obtain real-time or historical data for data analysis, machine learning models, or any data-driven application.
+APIs (Application Programming Interfaces) are sets of protocols and tools that allow different software applications to communicaate with each other.Using an API for data collection is a powerful way to obtain real-time or historical data for data analysis, machine learning models, or any data-driven application.
+
 
 ---Created a Spotify Developers account to get the Client ID and Client Secret
 
@@ -11,6 +12,3 @@ Note: Without the access token, our application will not be able to interact wit
 ---Using our Python function (get_trending_playlist_data) we extract detailed information using Spotify playlist ID and already obtained access token
 
 ---If required save the data obtained to a CSV file
-
-
-
